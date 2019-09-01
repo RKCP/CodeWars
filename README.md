@@ -1,2 +1,2 @@
 # CodeWars
-My exercises completed on Code Wars
+My solutions to exercises completed on Code Wars
